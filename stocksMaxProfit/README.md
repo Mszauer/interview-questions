@@ -1,7 +1,4 @@
-# Interview Questions
-Practice problems for interviews
-
-### stockMaxProfit.js
+# stockMaxProfit
 given an array as input, calculate the max profit (or minimal loss) that can be generated.
 Suppose we could access yesterday's stock prices as an array, where:
 1.The indices are the time in minutes past trade opening time, which was 9:30am local time.
