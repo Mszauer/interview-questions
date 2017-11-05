@@ -9,6 +9,16 @@ Suppose we could access yesterday's stock prices as an array, where:
 Write an efficient method that takes stockPricesYesterday and returns the best profit I could have made from 1 purchase and 1 sale of 1 Apple stock yesterday.
 
 For example:
+<<<<<<< HEAD
+=======
+
+  ```
+  int[] stockPricesYesterday = { 10, 7, 5, 8, 11, 9 };
+  
+  // Returns 6 (buying for $5 and selling for $11)
+  GetMaxProfit(stockPricesYesterday);
+  ```
+>>>>>>> 3198843c0d1b74b7ca6ec778a21a2b9a3702fa78
 
   ```
   int[] stockPricesYesterday = { 10, 7, 5, 8, 11, 9 };
